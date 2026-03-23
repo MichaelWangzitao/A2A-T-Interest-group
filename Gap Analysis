@@ -1,0 +1,10 @@
+# A2A-T Gap Analysis
+## Network O&M task's features and requirements
+### Key feature and requirements for A2A in ICT Area 
+In the ICT field, tasks exhibit several common characteristics and requirements. 
+
+1. Profession & Complexity: ICT tasks are highly specialized and complex. For example, in fault management, wireless faults alone can be categorized into 15 major types with 189 root causes. At the same time, not all faults generate alarms, which requires specialized diagnosis and repair capabilities. The interaction among functional modules must be accurate and efficient. Additionally, network services involve extensive cross-layer, cross-domain, and cross-service interactions, requiring robust solutions for handling complex and ambiguous tasks. 
+2.  Real-time: these tasks demand real-time processing. Phenomena such as network traffic tidal effects, holidays, major events, and hotspot incidents cause rapid changes in network status, necessitating real-time adaptive corrections to enhance response efficiency. 
+3. Security: Networks deal with vast amounts of privacy and sensitive data. As agent capabilities grow, ensuring their security and trustworthiness becomes essential. Especially, the use of agentic AI solutions has introduced numerous new attack vectors, and efforts are still underway to find solutions that ensure security within the operational paradigm. This requires not only basic security authentication but also mechanisms to log agent-involved tasks and collaborative activities, enabling traceability and accountability.
+
+## Gap between Requirements and A2A
