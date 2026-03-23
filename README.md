@@ -49,7 +49,7 @@ The paper "Why Do Multi-Agent LLM Systems Fail", introduces the Methodology.
 - Continuous Monitoring and Analysis: Treat agent interactions as observable data streams, enabling real-time analysis and feedback for early error correction.
 - Verification Mechanisms: Implement layered verification that checks not only final outputs but also the correctness of intermediate steps and alignment with goals.
 
-In TM Forum, a group of CSP and vendors propose the A2A-T IG1453 to provide a set of mechainsim based on above methodology, including, 
+In TM Forum, a group of CSP and vendors propose the A2A-T IG1453 [File download link](https://www.tmforum.org/resources/introductory-guide/ig1453-agent-to-agent-protocol-for-telecoms-a2a-t-v2-0-0/) to provide a set of mechainsim based on above methodology, including, 
 
 - Enhanced Communication Protocol: Provides structured prompts based on network tasks, transforming ambiguous natural language into structured, verifiable formats with a network ontology.
 - Quantification Mechanism: Provides a set of negotiation mechanisms for task intent, task feasibility, resource conflicts, and dynamic information correction.
